@@ -28,8 +28,8 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 
 ### :bookmark_tabs: Generative Model
 
-+ [Is synthetic data from generative models ready for image recognition?](https://arxiv.org/abs/2001.10773)(ICLR 2023, Spotlight)
-  [![Star](https://img.shields.io/github/stars/CVMI-Lab/SyntheticData.svg?style=social&label=Star)](https://github.com/VideoCrafter/VideoCrafter)
++ [Is synthetic data from generative models ready for image recognition?](https://arxiv.org/abs/2210.07574)(ICLR 2023, Spotlight)
+  [![Star](https://img.shields.io/github/stars/CVMI-Lab/SyntheticData.svg?style=social&label=Star)](https://github.com/CVMI-Lab/SyntheticData?utm_source=catalyzex.com)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.07574) 
 
 + [Diversity is Definitely Needed: Improving Model-Agnostic Zero-shot Classification via Stable Diffusion](https://arxiv.org/abs/2302.03298)(Apr 2023)
