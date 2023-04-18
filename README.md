@@ -18,15 +18,19 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 - [Generative Model](#Generative-Model)
 - [3D Virtual Engine](#3D-Virtual)
 - [Classification Task](#Classification-Task)
+- [Face Recognition](#Face-Recognition)
 - [Scene Text Detection & Recognition](#Scene-Text)
-- [Semantic Segmentation Task](#Semantic-Segmentation)
-- [Instance Segmentation Task](#Instance-Segmentation)
+- [Semantic Segmentation](#Semantic-Segmentation)
+- [Instance Segmentation](#Instance-Segmentation)
+- [Object Detection](#Object-Detection)
+- [3D Human Pose](#3D-Human-Pose)
 - [Depth Estimation Task](#Depth-Estimation-Task)
 - [Open Pose Task](#Open-Pose-Task)
 - [Referring Segmentation Task](#Referring-Segmentation)
+- [Medical Image](#Medical-Image)
 
 
-### Generative Model :bookmark_tabs: 
+### Classification Task
 
 + [Is synthetic data from generative models ready for image recognition?](https://arxiv.org/abs/2210.07574)(ICLR 2023, Spotlight)
   [![Star](https://img.shields.io/github/stars/CVMI-Lab/SyntheticData.svg?style=social&label=Star)](https://github.com/CVMI-Lab/SyntheticData?utm_source=catalyzex.com)
@@ -38,12 +42,64 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 + [Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels](https://arxiv.org/abs/2302.03298)(Apr 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2302.10586.pdf) 
 
++ [Diversity is Definitely Needed: Improving Model-Agnostic Zero-shot Classification via Stable Diffusion](https://arxiv.org/pdf/2302.03298)(Apr 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2302.03298) 
+
++ [Exploring Incompatible Knowledge Transfer in Few-shot Image Generation](https://github.com/yunqing-me/RICK)(CVPR 2023)
+  [![Star](https://img.shields.io/github/stars/yunqing-me/RICK.svg?style=social&label=Star)]
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2302.03298) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://yunqing-me.github.io/RICK/)
+
++ [Accelerating dataset distillation via model augmentation](https://arxiv.org/pdf/2212.06152.pdf)(December 2022)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.06152.pdf) 
+
+### 3D Human Pose
++ [Monocular 3D Human Pose Estimation for Sports Broadcasts using Partial Sports Field Registration](https://arxiv.org/pdf/2304.04437)(CVPR 2023)
+  [![Star](https://img.shields.io/github/stars/tobibaum/PartialSportsFieldReg_3DHPE.svg?style=social&label=Star)]
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.04437) 
 
 
-### 3D Virtual Engine :bookmark_tabs: 
+### Object Detection
++ [CrowdSim2: an Open Synthetic Benchmark for Object Detectors](https://arxiv.org/pdf/2304.05090.pdf)(the 18th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.05090.pdf) 
+
+
+### Face Recognition
++ [DCFace: Synthetic Face Generation with Dual Condition Diffusion Model](https://arxiv.org/pdf/2304.07060.pdf)(CVPR 2023)
+  [![Star](https://img.shields.io/github/stars/mk-minchul/dcface.svg?style=social&label=Star)]
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.07060.pdf) 
+
++ [SynthASpoof: Developing Face Presentation Attack Detection Based on Privacy-friendly Synthetic Data](https://arxiv.org/pdf/2303.02660)(CVPR 2023 workshop)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.02660) 
+
+
+
+
+### Instance Segmentation
++ [HaDR: Applying Domain Randomization for Generating Synthetic Multimodal Dataset for Hand Instance Segmentation in Cluttered Industrial Environments](https://arxiv.org/pdf/2304.05826)(April 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.05826.pdf) 
+
+
+### 3D Virtual Engine 
 
 + [Virtual kitti 2](https://arxiv.org/abs/2001.10773)(Apr., 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2001.10773) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://europe.naverlabs.com/research/computer-vision/proxy-virtual-worlds-vkitti-2/)
 
+
+### Medical Image
+
++ [Brain PET Synthesis from MRI Using Joint Probability Distribution of Diffusion Model at Ultrahigh Fields](https://arxiv.org/pdf/2211.08901.pdf)(November 2022)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2211.08901.pdf) 
+
+
++ [Distributed Conditional GAN (discGAN) For Synthetic Healthcare Data Generation](https://arxiv.org/pdf/2304.04290.pdf)(April 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.04290.pdf) 
+
++ [MedGen3D: A Deep Generative Framework for Paired 3D Image and Mask Generation](https://arxiv.org/pdf/2304.04106)(MICCAI 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.04106) 
+
+
++ [Zero-shot CT Field-of-view Completion with Unconditional Generative Diffusion Prior](https://arxiv.org/pdf/2304.03760)(MIDL 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.03760) 
 
