@@ -2,12 +2,17 @@
 This repository contains a collection of resources and papers on **Awesome-Synthetic-Data-for-Perception-Task**.
 
 <p align="center">
-<img src="./assets/out-1.gif" width="480px"/>   
+<img src="./assets/out-1.gif" width="600px"/>   
 </p>
 
 <p align="center">
-<img src="./assets/1681826106888.jpg" width="480px"/>   
+<img src="./assets/1681826106888.jpg" width="600px"/>   
 </p>
+
+<p align="center">
+(Source: <a href="https://arxiv.org/abs/2001.10773">Virtual kitti 2</a>, <a href="https://weijiawu.github.io/DiffusionMask/">DiffuMask</a>)
+</p>
+
 
 ## :paintbrush: Table of Contents <!-- omit in toc -->
 - [Generative Model](#Generative-Model)
