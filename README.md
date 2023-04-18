@@ -26,6 +26,6 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 
 + [Virtual kitti 2](https://arxiv.org/abs/2001.10773)(Apr., 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2001.10773) 
-  [![Website](https://europe.naverlabs.com/research/computer-vision/proxy-virtual-worlds-vkitti-2/)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://europe.naverlabs.com/research/computer-vision/proxy-virtual-worlds-vkitti-2/)
 
 
