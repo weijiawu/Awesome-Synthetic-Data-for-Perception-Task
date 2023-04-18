@@ -35,9 +35,12 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 + [Diversity is Definitely Needed: Improving Model-Agnostic Zero-shot Classification via Stable Diffusion](https://arxiv.org/abs/2302.03298)(Apr 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.03298) 
 
++ [Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels](https://arxiv.org/abs/2302.03298)(Apr 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2302.10586.pdf) 
 
 
-### :bookmark_tabs: 3D Virtual Engine
+
+### 3D Virtual Engine :bookmark_tabs: 
 
 + [Virtual kitti 2](https://arxiv.org/abs/2001.10773)(Apr., 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2001.10773) 
