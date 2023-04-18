@@ -26,7 +26,7 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 - [Referring Segmentation Task](#Referring-Segmentation)
 
 
-### Generative Model
+### Generative Model :bookmark_tabs: 
 
 + [Is synthetic data from generative models ready for image recognition?](https://arxiv.org/abs/2210.07574)(ICLR 2023, Spotlight)
   [![Star](https://img.shields.io/github/stars/CVMI-Lab/SyntheticData.svg?style=social&label=Star)](https://github.com/CVMI-Lab/SyntheticData?utm_source=catalyzex.com)
