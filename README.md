@@ -59,6 +59,18 @@ This repository contains a collection of resources and papers on **Awesome-Synth
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.04437) 
 
 
+### Semantic Segmentation
+
++ [DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models](https://arxiv.org/abs/2303.11681)(Mar 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.11681) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://weijiawu.github.io/DiffusionMask/)
+
++ [HandsOff: Labeled Dataset Generation With No Additional Human Annotations](https://openreview.net/pdf?id=gcpD-9_eOIL)(NeurIPS 2022 Workshop)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=gcpD-9_eOIL) 
+
+
+
+
 ### Object Detection
 + [CrowdSim2: an Open Synthetic Benchmark for Object Detectors](https://arxiv.org/pdf/2304.05090.pdf)(the 18th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.05090.pdf) 
