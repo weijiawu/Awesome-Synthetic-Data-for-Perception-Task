@@ -65,6 +65,11 @@ This repository contains a collection of resources and papers on **Awesome-Synth
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.11681) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://weijiawu.github.io/DiffusionMask/)
 
++ [Guiding Text-to-Image Diffusion Model Towards Grounded Generation](https://arxiv.org/abs/2301.05221)(Jan 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.05221) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://lipurple.github.io/Grounded_Diffusion/)
+
+
 + [HandsOff: Labeled Dataset Generation With No Additional Human Annotations](https://openreview.net/pdf?id=gcpD-9_eOIL)(NeurIPS 2022 Workshop)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=gcpD-9_eOIL) 
 
