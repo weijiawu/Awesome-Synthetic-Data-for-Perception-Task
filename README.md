@@ -66,12 +66,30 @@ This repository contains a collection of resources and papers on **Awesome-Synth
   [![Website](https://img.shields.io/badge/Website-9cf)](https://weijiawu.github.io/DiffusionMask/)
 
 + [Guiding Text-to-Image Diffusion Model Towards Grounded Generation](https://arxiv.org/abs/2301.05221)(Jan 2023)
+  [![Star](https://img.shields.io/github/stars/Lipurple/Grounded-Diffusion.svg?style=social&label=Star)]
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.05221) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://lipurple.github.io/Grounded_Diffusion/)
 
 
 + [HandsOff: Labeled Dataset Generation With No Additional Human Annotations](https://openreview.net/pdf?id=gcpD-9_eOIL)(NeurIPS 2022 Workshop)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=gcpD-9_eOIL) 
+
++ [DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort](https://nv-tlabs.github.io/big-datasetgan/resources/paper.pdf)(CVPR 2021 oral)
+  [![Star](https://img.shields.io/github/stars/nv-tlabs/datasetGAN_release.svg?style=social&label=Star)]
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.06490) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://nv-tlabs.github.io/datasetGAN/)
+
+### Instance Segmentation
+
++ [BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations](https://nv-tlabs.github.io/big-datasetgan/resources/paper.pdf)(CVPR 2022)
+  [![Star](https://img.shields.io/github/stars/nv-tlabs/bigdatasetgan_code.svg?style=social&label=Star)]
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2201.04684) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://nv-tlabs.github.io/big-datasetgan/?utm_source=catalyzex.com)
+
+
+
+
+
 
 
 
