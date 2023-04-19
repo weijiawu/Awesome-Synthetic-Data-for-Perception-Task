@@ -24,6 +24,7 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 - [Instance Segmentation](#Instance-Segmentation)
 - [Object Detection](#Object-Detection)
 - [3D Human Pose](#3D-Human-Pose)
+- [Pose](#Pose)
 - [Depth Estimation Task](#Depth-Estimation-Task)
 - [Open Pose Task](#Open-Pose-Task)
 - [Referring Segmentation Task](#Referring-Segmentation)
@@ -99,6 +100,25 @@ This repository contains a collection of resources and papers on **Awesome-Synth
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.05090.pdf) 
 
 
++ [X-Paste: Revisit Copy-Paste at Scale with CLIP and StableDiffusion](https://arxiv.org/abs/2212.03863)(Dec, 2022)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.03863)
+
+
++ [DALL-E for Detection: Language-driven Compositional Image Synthesis for Object Detection](https://arxiv.org/pdf/2206.09592.pdf)(Dec, 2022)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2206.09592.pdf)
+
++ [Neural-Sim: Learning to Generate Training Data with NeRF](https://arxiv.org/pdf/2207.11368.pdf)(ECCV, 2022)
+  [![Star](https://img.shields.io/github/stars/gyhandy/Neural-Sim-NeRF?style=social&label=Star)]
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2207.11368.pdf)
+
++ [EM-Paste: EM-guided Cut-Paste with DALL-E Augmentation for Image-level Weakly Supervised Instance Segmentation](https://arxiv.org/abs/2212.07629)(Dec, 2022)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.07629)
+
+
+
+
+
+
 ### Face Recognition
 + [DCFace: Synthetic Face Generation with Dual Condition Diffusion Model](https://arxiv.org/pdf/2304.07060.pdf)(CVPR 2023)
   [![Star](https://img.shields.io/github/stars/mk-minchul/dcface.svg?style=social&label=Star)]
@@ -137,4 +157,12 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 
 + [Zero-shot CT Field-of-view Completion with Unconditional Generative Diffusion Prior](https://arxiv.org/pdf/2304.03760)(MIDL 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.03760) 
+
+
+### Pose
++ [Pose Augmentation: Class-agnostic Object Pose Transformation for Object Recognition](https://arxiv.org/pdf/2304.03760)(ECCV 2020)
+  [![Star](https://img.shields.io/github/stars/gyhandy/Pose-Augmentation?style=social&label=Star)]
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2003.08526.pdf) 
+
+
 
