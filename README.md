@@ -33,6 +33,9 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 
 ### Classification Task
 
++ [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)(Apr, 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.08466) 
+
 + [Is synthetic data from generative models ready for image recognition?](https://arxiv.org/abs/2210.07574)(ICLR 2023, Spotlight)
   [![Star](https://img.shields.io/github/stars/CVMI-Lab/SyntheticData.svg?style=social&label=Star)](https://github.com/CVMI-Lab/SyntheticData?utm_source=catalyzex.com)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.07574) 
