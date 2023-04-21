@@ -33,6 +33,10 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 
 ### Classification Task
 
++ [A data augmentation perspective on diffusion models and retrieva](https://arxiv.org/abs/2304.10253)(Apr, 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.10253) 
+
+
 + [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)(Apr, 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.08466) 
 
