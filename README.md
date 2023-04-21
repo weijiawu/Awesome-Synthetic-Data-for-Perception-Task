@@ -15,7 +15,7 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 
 
 ## :paintbrush: Table of Contents <!-- omit in toc -->
-- [Generative Model](#Generative-Model)
+- [Survey](#Survey)
 - [3D Virtual Engine](#3D-Virtual)
 - [Classification Task](#Classification-Task)
 - [Face Recognition](#Face-Recognition)
@@ -30,8 +30,48 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 - [Referring Segmentation Task](#Referring-Segmentation)
 - [Medical Image](#Medical-Image)
 
+### Survey
++ [A survey on generative adversarial networks for imbalance problems in computer vision tasks](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00414-0)(Journal of Big Data 2021)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00414-0) 
+
+
 
 ### Classification Task
+
++ [Positive-Unlabeled Learning with Adversarial Data Augmentation for Knowledge Graph Completion](https://arxiv.org/abs/2205.00904)(IJCAI 2022)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.00904) 
+
++ [RareGAN: Generating Samples for Rare Classes](https://arxiv.org/abs/2203.10674)(AAAI 2022)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.10674) 
+
++ [Data Augmentation in High Dimensional Low Sample Size Setting Using a Geometry-Based Variational Autoencoder)(TPAMI 2022)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/9806307/) 
+
++ [Deep Generative Mixture Model for Robust Imbalance Classification)(TPAMI 2022)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/document/9785970/) 
+
++ [Do Deep Networks Transfer Invariances Across Classes?](https://arxiv.org/abs/2203.09739)(ICLR 2022)
+  [![Star](https://img.shields.io/github/stars/IBM/BAGAN.svg?style=social&label=Star)](https://github.com/AllanYangZhou/generative-invariance-transfer?utm_source=catalyzex.com)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.09739) 
+
+
+
++ [BAGAN: Data Augmentation with Balancing GAN](https://arxiv.org/abs/1803.09655)(Mar 2018)
+  [![Star](https://img.shields.io/github/stars/IBM/BAGAN.svg?style=social&label=Star)](https://github.com/CVMI-Lab/SyntheticData?utm_source=catalyzex.com)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1803.09655) 
+
++ [Deep Synthetic Noise Generation for RGB-D Data Augmentation](https://www.semanticscholar.org/paper/Deep-Synthetic-Noise-Generation-for-RGB-D-Data-Hammond/e9607b30ab4ce1d466bb7ce6df2de6d0b28fa680)(Mar 2019)
+  [![Star](https://img.shields.io/github/stars/pdhhammond/deep-noise-generation.svg?style=social&label=Star)](https://github.com/CVMI-Lab/SyntheticData?utm_source=catalyzex.com)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.semanticscholar.org/paper/Deep-Synthetic-Noise-Generation-for-RGB-D-Data-Hammond/e9607b30ab4ce1d466bb7ce6df2de6d0b28fa680) 
+
+
+
+
+
+
++ [Efficient Augmentation for Imbalanced Deep Learning](https://arxiv.org/abs/2304.10253)(Mon, 2022)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.06080) 
+
 
 + [A data augmentation perspective on diffusion models and retrieva](https://arxiv.org/abs/2304.10253)(Apr, 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.10253) 
@@ -171,5 +211,9 @@ This repository contains a collection of resources and papers on **Awesome-Synth
   [![Star](https://img.shields.io/github/stars/gyhandy/Pose-Augmentation?style=social&label=Star)]
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2003.08526.pdf) 
 
++ [StyleGAN-Human: A Data-Centric Odyssey of Human Generation](https://arxiv.org/abs/2204.11823)(ECCV 2020)
+  [![Star](https://img.shields.io/github/stars/stylegan-human/StyleGAN-Human?style=social&label=Star)]
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.11823) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://stylegan-human.github.io/)
 
 
