@@ -66,9 +66,6 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 
 
 
-
-
-
 + [Efficient Augmentation for Imbalanced Deep Learning](https://arxiv.org/abs/2304.10253)(Mon, 2022)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.06080) 
 
@@ -94,7 +91,7 @@ This repository contains a collection of resources and papers on **Awesome-Synth
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2302.03298) 
 
 + [Exploring Incompatible Knowledge Transfer in Few-shot Image Generation](https://github.com/yunqing-me/RICK)(CVPR 2023)
-  [![Star](https://img.shields.io/github/stars/yunqing-me/RICK.svg?style=social&label=Star)]
+  [![Star](https://img.shields.io/github/stars/yunqing-me/RICK.svg?style=social&label=Star)](https://github.com/yunqing-me/RICK)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2302.03298) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yunqing-me.github.io/RICK/)
 
@@ -130,7 +127,7 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 ### Instance Segmentation
 
 + [BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations](https://nv-tlabs.github.io/big-datasetgan/resources/paper.pdf)(CVPR 2022)
-  [![Star](https://img.shields.io/github/stars/nv-tlabs/bigdatasetgan_code.svg?style=social&label=Star)]
+  [![Star](https://img.shields.io/github/stars/nv-tlabs/bigdatasetgan_code.svg?style=social&label=Star)](https://github.com/nv-tlabs/bigdatasetgan_code)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2201.04684) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://nv-tlabs.github.io/big-datasetgan/?utm_source=catalyzex.com)
 
@@ -155,7 +152,7 @@ This repository contains a collection of resources and papers on **Awesome-Synth
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2206.09592.pdf)
 
 + [Neural-Sim: Learning to Generate Training Data with NeRF](https://arxiv.org/pdf/2207.11368.pdf)(ECCV, 2022)
-  [![Star](https://img.shields.io/github/stars/gyhandy/Neural-Sim-NeRF?style=social&label=Star)]
+  [![Star](https://img.shields.io/github/stars/gyhandy/Neural-Sim-NeRF?style=social&label=Star)](https://github.com/gyhandy/Neural-Sim-NeRF)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2207.11368.pdf)
 
 + [EM-Paste: EM-guided Cut-Paste with DALL-E Augmentation for Image-level Weakly Supervised Instance Segmentation](https://arxiv.org/abs/2212.07629)(Dec, 2022)
@@ -208,12 +205,11 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 
 ### Pose
 + [Pose Augmentation: Class-agnostic Object Pose Transformation for Object Recognition](https://arxiv.org/pdf/2304.03760)(ECCV 2020)
-  [![Star](https://img.shields.io/github/stars/gyhandy/Pose-Augmentation?style=social&label=Star)]
+  [![Star](https://img.shields.io/github/stars/gyhandy/Pose-Augmentation?style=social&label=Star)](https://github.com/gyhandy/Pose-Augmentation?utm_source=catalyzex.com)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2003.08526.pdf) 
 
 + [StyleGAN-Human: A Data-Centric Odyssey of Human Generation](https://arxiv.org/abs/2204.11823)(ECCV 2020)
-  [![Star](https://img.shields.io/github/stars/stylegan-human/StyleGAN-Human?style=social&label=Star)]
+  [![Star](https://img.shields.io/github/stars/stylegan-human/StyleGAN-Human?style=social&label=Star)](https://github.com/stylegan-human/StyleGAN-Human)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.11823) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://stylegan-human.github.io/)
-
 
