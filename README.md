@@ -44,10 +44,10 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 + [RareGAN: Generating Samples for Rare Classes](https://arxiv.org/abs/2203.10674)(AAAI 2022)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.10674) 
 
-+ [Data Augmentation in High Dimensional Low Sample Size Setting Using a Geometry-Based Variational Autoencoder)(TPAMI 2022)
++ [Data Augmentation in High Dimensional Low Sample Size Setting Using a Geometry-Based Variational Autoencoder)(https://ieeexplore.ieee.org/abstract/document/9806307/)(TPAMI 2022)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/9806307/) 
 
-+ [Deep Generative Mixture Model for Robust Imbalance Classification)(TPAMI 2022)
++ [Deep Generative Mixture Model for Robust Imbalance Classification)(https://ieeexplore.ieee.org/abstract/document/9806307/)(TPAMI 2022)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/document/9785970/) 
 
 + [Do Deep Networks Transfer Invariances Across Classes?](https://arxiv.org/abs/2203.09739)(ICLR 2022)
