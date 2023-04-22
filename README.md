@@ -30,6 +30,10 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 - [Referring Segmentation Task](#Referring-Segmentation)
 - [Medical Image](#Medical-Image)
 
+
+
+
+
 ### Survey
 + [A survey on generative adversarial networks for imbalance problems in computer vision tasks](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00414-0)(Journal of Big Data 2021)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00414-0) 
@@ -212,4 +216,21 @@ This repository contains a collection of resources and papers on **Awesome-Synth
   [![Star](https://img.shields.io/github/stars/stylegan-human/StyleGAN-Human?style=social&label=Star)](https://github.com/stylegan-human/StyleGAN-Human)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.11823) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://stylegan-human.github.io/)
+
+
+
+
+## :paintbrush: Others for Diffusion Model <!-- omit in toc -->
+- [Image Generation](#image)
+- [3D Generation](#3D-Generation)
+- [3D Editing](#3D-Editing)
+
+
+### 3D Editing
+
+
++ [SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields](https://arxiv.org/pdf/2211.12254.pdf)(CVPR 2022)
+  [![Star](https://img.shields.io/github/stars/SamsungLabs/SPIn-NeRF?style=social&label=Star)](https://github.com/SamsungLabs/SPIn-NeRF)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2211.12254.pdf) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://spinnerf3d.github.io/)
 
