@@ -224,7 +224,7 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 - [Image Generation](#image)
 - [3D Generation](#3D-Generation)
 - [3D Editing](#3D-Editing)
-
+- [Reinforcement Learning with Human Feedback](#Reinforcement-Learning-with-Human-Feedback)
 
 ### 3D Editing
 
@@ -233,4 +233,18 @@ This repository contains a collection of resources and papers on **Awesome-Synth
   [![Star](https://img.shields.io/github/stars/SamsungLabs/SPIn-NeRF?style=social&label=Star)](https://github.com/SamsungLabs/SPIn-NeRF)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2211.12254.pdf) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://spinnerf3d.github.io/)
+
+
+### Reinforcement Learning with Human Feedback
+
++ [Better Aligning Text-to-Image Models with Human Preference](https://arxiv.org/abs/2303.14420)(Mar 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14420) 
+
+
++ [RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment](https://arxiv.org/abs/2304.06767)(Apr 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06767) 
+
++ [Aligning Text-to-Image Models using Human Feedback](https://arxiv.org/pdf/2302.12192.pdf)(Apr 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2302.12192.pdf) 
+
 
