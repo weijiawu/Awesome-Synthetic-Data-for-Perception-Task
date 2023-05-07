@@ -225,6 +225,7 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 - [3D Generation](#3D-Generation)
 - [3D Editing](#3D-Editing)
 - [Reinforcement Learning with Human Feedback](#Reinforcement-Learning-with-Human-Feedback)
+- [Conditional Generation](#Conditional-Generation)
 
 ### 3D Editing
 
@@ -250,5 +251,14 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 + [ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation](https://arxiv.org/abs/2304.05977)(Thu 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.05977) 
   [![Star](https://img.shields.io/github/stars/THUDM/ImageReward?style=social&label=Star)](https://github.com/THUDM/ImageReward)
+
+
+### Conditional Generation
+
++ [MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation](https://multidiffusion.github.io/)(ICML 2023)
+  [![Star](https://img.shields.io/github/stars/SamsungLabs/SPIn-NeRF?style=social&label=Star)](https://github.com/omerbt/MultiDiffusion)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.08113) 
+  [![Website](https://multidiffusion.github.io/)](https://multidiffusion.github.io/)
+
 
 
