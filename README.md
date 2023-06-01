@@ -42,9 +42,15 @@ This repository contains a collection of resources and papers on **Awesome-Synth
 
 ### Classification Task
 
+
+
++ [Training on Thin Air: Improve Image Classification with Generated Data](https://arxiv.org/pdf/2305.15316.pdf)(May 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.15316.pdf)
+  
+  
 + [Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation](https://arxiv.org/abs/2305.16289)(May 2023)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.16289) 
-  [Star](https://img.shields.io/github/stars/gyhandy/Neural-Sim-NeRF?style=social&label=Star)](https://github.com/lisadunlap/ALIA?utm_source=catalyzex.com)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.16289)
+  [![Star](https://img.shields.io/github/stars/IBM/BAGAN.svg?style=social&label=Star)](https://github.com/lisadunlap/ALIA?utm_source=catalyzex.com) 
   
 + [Positive-Unlabeled Learning with Adversarial Data Augmentation for Knowledge Graph Completion](https://arxiv.org/abs/2205.00904)(IJCAI 2022)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.00904) 
